@@ -24,7 +24,7 @@ EcoStyle is a modern, responsive, and accessible **eCommerce fashion website** b
 - 🎯 Interactive "Add to Cart" buttons (future enhancements possible)
 - 📬 Functional contact form with validation
 - 💅 Clean and modern UI/UX
-- 🌐 Deployed and live via [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/)
+- 🌐 Deployed and live via [Netlify](https://www.netlify.com/)
 
 ---
 
@@ -47,4 +47,4 @@ EcoStyle is a modern, responsive, and accessible **eCommerce fashion website** b
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/ecostyle-ecommerce.git
+git clone https://[github.com/yourusername/ecostyle-ecommerce.git](https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-BlessedConso001.git)
