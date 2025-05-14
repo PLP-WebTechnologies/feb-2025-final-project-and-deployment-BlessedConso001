@@ -47,4 +47,4 @@ EcoStyle is a modern, responsive, and accessible **eCommerce fashion website** b
 ### 1. Clone this repository
 
 ```bash
-git clone https://[github.com/yourusername/ecostyle-ecommerce.git](https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-BlessedConso001.git)
+git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-BlessedConso001.git
