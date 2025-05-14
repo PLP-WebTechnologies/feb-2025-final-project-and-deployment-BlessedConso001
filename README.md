@@ -30,7 +30,7 @@ EcoStyle is a modern, responsive, and accessible **eCommerce fashion website** b
 
 ## 🌍 Demo
 
-🔗 **Live Site:** [Click here to view](https://your-deployment-link.com)
+🔗 **Live Site:** [Click here to view](https://bright-sopapillas-efd74f.netlify.app/)
 
 ---
 
