@@ -1,25 +1,50 @@
-# Final Project and Deployment
+# EcoStyle 🌿
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+EcoStyle is a modern, responsive, and accessible **eCommerce fashion website** built using HTML5, CSS3, and JavaScript. The site promotes sustainable fashion by showcasing eco-friendly clothing products and providing an intuitive user experience.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+---
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 📌 Table of Contents
 
-## Tasks
+- [Features](#features)
+- [Demo](#demo)
+- [Tech Stack](#tech-stack)
+- [How to Use](#how-to-use)
+- [Deployment](#deployment)
+- [Folder Structure](#folder-structure)
+- [Screenshots](#screenshots)
+- [Author](#author)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+---
 
-Good luck and happy coding! 🚀💻
+## ✨ Features
+
+- 💻 **Responsive Design** for all screen sizes
+- 🔗 Multi-page layout with anchor-based navigation
+- 🎯 Interactive "Add to Cart" buttons (future enhancements possible)
+- 📬 Functional contact form with validation
+- 💅 Clean and modern UI/UX
+- 🌐 Deployed and live via [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 🌍 Demo
+
+🔗 **Live Site:** [Click here to view](https://your-deployment-link.com)
+
+---
+
+## ⚙️ Tech Stack
+
+- **HTML5** – Semantic structure
+- **CSS3** – Styling and responsive layout
+- **JavaScript (Vanilla)** – Interactivity and form validation
+
+---
+
+## 🚀 How to Use
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/yourusername/ecostyle-ecommerce.git
